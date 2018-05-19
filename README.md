@@ -12,4 +12,7 @@ Aprendendo as nova funcionalidades do Javascript
     Uma forma mais elegante de concatenar uma string.
 
 1.4 - Mapas
-    Quando temos um objeto, podemos utilizar o Mapa para verificar se tem(has) o valor XXX, remover(delete) um atributo com o seu valor, entre outras funções que vem para nos ajudar no dia a dia. :)  
+    Quando temos um objeto, podemos utilizar o Mapa para verificar se tem(has) o valor XXX, remover(delete) um atributo com o seu valor, entre outras funções que vem para nos ajudar no dia a dia. :)
+
+1.5 - Conjuntos
+    
