@@ -54,6 +54,13 @@ Aprendendo as nova funcionalidades do Javascript
             O método Object.assign() copia apenas propriedades enumeráveis e próprias de um objeto de origem para um objeto destino. Ele usa [[Get]] na origem e [[Put]] no destino, então isto irá invocar getters e setters.
             Link => https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Object/assign
 
+        21.2 - Find
+            
+
+
+
+
+
 Para melhorar a programação no dia a dia :)
 A - Typeof
     Usando o typeof
