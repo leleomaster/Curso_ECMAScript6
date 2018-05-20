@@ -45,6 +45,7 @@ Aprendendo as nova funcionalidades do Javascript
     20 - Programação Orientada Objeto
         20.1 - Classes
         20.2 - Herança
+        20.3 - Métodos Estáticos
 
 
 Para melhorar a programação no dia a dia :)
