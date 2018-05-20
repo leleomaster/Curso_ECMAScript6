@@ -32,6 +32,17 @@ Aprendendo as nova funcionalidades do Javascript
         Os parâmetros predefinidos de uma função permitem que parâmetros regulares sejam inicializados com com valores iniciais caso undefined ou nenhum valor seja passado.
         Link => https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Functions/Parametros_Predefinidos
 
+    1.9.2 - Parâmetros Agrupados(rest)
+        A sintaxe de rest parameter (parâmetros rest)  nos permite representar um número indefinido de argumentos em um array.
+        Se o último argumento nomeado de uma função tiver prefixo com  ..., ele irá se tornar um array em que os elemento de 0 (inclusive) até theArgs.length (exclusivo) são disponibilizados pelos argumentos atuais passados à função.
+
+
+
+
+
+
+
+
 Para melhorar a programação no dia a dia :)
 A - Typeof
     Usando o typeof
