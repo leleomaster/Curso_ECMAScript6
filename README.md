@@ -36,9 +36,11 @@ Aprendendo as nova funcionalidades do Javascript
         A sintaxe de rest parameter (parâmetros rest)  nos permite representar um número indefinido de argumentos em um array.
         Se o último argumento nomeado de uma função tiver prefixo com  ..., ele irá se tornar um array em que os elemento de 0 (inclusive) até theArgs.length (exclusivo) são disponibilizados pelos argumentos atuais passados à função.
 
+    1.9.3 - Parâmetros Spread
+        Sintaxe de Espalhamento (Spread syntax) permite um objeto iterável tal como uma expressão de array ou uma string ser expandida onde zero ou mais argumentos (para chamadas de funções) ou elementos (para arrays literais) são esperados, ou um objeto ser expandido onde zero ou mais pares propriedade:valor (para objetos literais) são esperados.
 
-
-
+    1.9.4 - Arrow
+        Uma expressão arrow function possui uma síntaxe mais curta quando comparada com expressões de função (function expressions) e não faz o bind do this. Arrow functions sempre são anônimas.
 
 
 
