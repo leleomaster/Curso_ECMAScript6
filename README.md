@@ -55,7 +55,8 @@ Aprendendo as nova funcionalidades do Javascript
             Link => https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Object/assign
 
         21.2 - Find
-            
+        21.3 - String
+        21.4 - Number    
 
 
 
