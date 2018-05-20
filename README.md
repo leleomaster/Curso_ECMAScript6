@@ -27,6 +27,11 @@ Aprendendo as nova funcionalidades do Javascript
     Generator é um tipo especial de função que trabalha como uma factory para iteradores. A função vira um generator se ela contém uma ou mais expressões yield e se ela usa a sintaxe function*.
     Link => https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Iteratores_e_geradores
 
+1.9 - Funções
+    1.9.1 - Parâmetros Predefinidos
+        Os parâmetros predefinidos de uma função permitem que parâmetros regulares sejam inicializados com com valores iniciais caso undefined ou nenhum valor seja passado.
+        Link => https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Functions/Parametros_Predefinidos
+
 Para melhorar a programação no dia a dia :)
 A - Typeof
     Usando o typeof
