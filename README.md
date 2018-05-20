@@ -46,7 +46,13 @@ Aprendendo as nova funcionalidades do Javascript
         20.1 - Classes
         20.2 - Herança
         20.3 - Métodos Estáticos
-
+        20.4 - getting e setting
+    
+    21 - Métodos nativos
+        21.1 - Assign
+            O método Object.assign() é usado para copiar os valores de todas as propriedades próprias enumeráveis de um ou mais objetos de origem para um objeto destino. Este método irá retornar o objeto destino.
+            O método Object.assign() copia apenas propriedades enumeráveis e próprias de um objeto de origem para um objeto destino. Ele usa [[Get]] na origem e [[Put]] no destino, então isto irá invocar getters e setters.
+            Link => https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Object/assign
 
 Para melhorar a programação no dia a dia :)
 A - Typeof
