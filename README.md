@@ -42,6 +42,8 @@ Aprendendo as nova funcionalidades do Javascript
     1.9.4 - Arrow
         Uma expressão arrow function possui uma síntaxe mais curta quando comparada com expressões de função (function expressions) e não faz o bind do this. Arrow functions sempre são anônimas.
 
+    20 - Programação Orientada Objeto
+        20.1 - Classes
 
 
 
