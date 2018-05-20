@@ -44,7 +44,7 @@ Aprendendo as nova funcionalidades do Javascript
 
     20 - Programação Orientada Objeto
         20.1 - Classes
-
+        20.2 - Herança
 
 
 Para melhorar a programação no dia a dia :)
