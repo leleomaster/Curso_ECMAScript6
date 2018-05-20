@@ -20,6 +20,12 @@ Aprendendo as nova funcionalidades do Javascript
 1.6 - Atribuição via desestruturação
     A sintaxe de atribuição via desestruturação (destructuring assignment) é uma expressão JavaScript que possibilita extrair dados de arrays ou objetos em variáveis distintas.
 
+1.7 - FOR
+    Iterações com for mais fáceis de se ler :)
+
+1.8 - Geradores
+    Generator é um tipo especial de função que trabalha como uma factory para iteradores. A função vira um generator se ela contém uma ou mais expressões yield e se ela usa a sintaxe function*.
+    Link => https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Iteratores_e_geradores
 
 Para melhorar a programação no dia a dia :)
 A - Typeof
